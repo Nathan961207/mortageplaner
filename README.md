@@ -41,6 +41,11 @@ npm install
 npm start 
 ```
 
+## Watch mode 🐱‍💻
+```bash
+npm run start:dev
+```
+
 ## Test 🧑‍🔬
 ```bash
 npm test 
